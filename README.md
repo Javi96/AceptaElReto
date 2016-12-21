@@ -1,8 +1,8 @@
 # ¡Acepta el reto!
-Repositorio con soluciones de varios ejercicios de https://www.aceptaelreto.com/
+Compilation of exercises from https://www.aceptaelreto.com/
 
-## Notas
-+ Los ejercicios están implementados en C++.
+## Notes
++ The exercises are implemented in C++.
 
-## Autores
+## Authors
 * **Javier Cortés Tejada** - [Javi96](https://github.com/Javi96)
